@@ -1,0 +1,12 @@
+html{background-color: bisque;}
+
+.header{display:flex; background-color: plum; padding:10px; height: 100; justify-content: center;}
+
+.badge{display:flex; background-color: purple; padding: 20px; height:100 ; justify-content: space-evenly; margin:20px;}
+
+.games{display:flex; background-color: darkgreen; padding: 20px; height:300; justify-content: space-evenly; margin:20px;}
+
+.games:hover{opacity:0.5}
+
+h1:hover{transform:translate(-50%,-50%);}
+
